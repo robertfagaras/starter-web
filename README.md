@@ -15,3 +15,7 @@ Sample website with plenty of files for demo
 Deployment can be on any web server.
 
 ## How To Contribute
+
+### Copyright
+
+2020 Git.Training.
